@@ -8,5 +8,5 @@ Markmið leiksins er að safna stigum. þú þarft fyrst að finna Byssu. athuga
 * Ctrl:  Krjúpa
 * Space:  hoppa
 
-#### [Video]()
+#### [Video](https://www.youtube.com/watch?v=jDBKZhRFz4o)
 #### [Code](https://github.com/bjornthor21/leikur2/tree/main/code)
